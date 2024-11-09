@@ -1,0 +1,171 @@
+The problem with LeetCode questions…..
+LeetCode questions are great for sharpening problem-solving skills, but real-world coding also demands collaboration, scalable design, and handling complex codebases.
+Here’s a more effective prep approach:
+➡️Understand Algorithms
+Don’t just memorize—grasp how they work. Know, for example, the difference between quicksort and mergesort.
+➡️Identify Patterns in Problems
+Spot recurring themes. For instance, in tree problems, consider depth-first vs. breadth-first search.
+➡️Iterate and Optimize
+After solving, ask yourself, “Can I make this faster?” Focus on improving time complexity with better algorithms.
+➡️ Practice with Mock Interviews
+Simulate real interviews with mocks to get feedback on your approach.
+Platforms like Preplaced connects you with experienced software engineers who will provide constructive feedback on your approach and performance.|1477
+🌟 𝗙𝗶𝗻𝗱𝗶𝗻𝗴 𝗕𝗮𝗹𝗮𝗻𝗰𝗲: 𝗪𝗵𝗮𝘁 𝘁𝗼 𝗘𝘅𝗽𝗲𝗰𝘁 𝗳𝗿𝗼𝗺 𝗬𝗼𝘂𝗿 𝗝𝗼𝗯 🌟
+As professionals, it's essential to set realistic expectations for our jobs, recognizing that work is just one aspect of our lives. Here are some key points to consider:
+𝟭. 𝗠𝗲𝗮𝗻𝗶𝗻𝗴𝗳𝘂𝗹 𝗪𝗼𝗿𝗸: Seek fulfillment and purpose in your tasks and contributions. Look for opportunities to make a meaningful impact aligned with your values and career goals.
+𝟮. 𝗣𝗿𝗼𝗳𝗲𝘀𝘀𝗶𝗼𝗻𝗮𝗹 𝗚𝗿𝗼𝘄𝘁𝗵: Prioritize continuous learning and development. Seek opportunities to expand your skills and knowledge, ensuring you stay relevant and competitive in your field.
+𝟯. 𝗪𝗼𝗿𝗸-𝗟𝗶𝗳𝗲 𝗕𝗮𝗹𝗮𝗻𝗰𝗲: Strive for balance between your work responsibilities and personal well-being. Set boundaries, prioritize self-care, and make time for hobbies, relationships, and activities outside of work.
+𝟰. 𝗦𝘂𝗽𝗽𝗼𝗿𝘁𝗶𝘃𝗲 𝗘𝗻𝘃𝗶𝗿𝗼𝗻𝗺𝗲𝗻𝘁: Expect a workplace culture that values diversity, inclusion, and employee well-being. Seek out organizations that prioritize a supportive and inclusive environment where you can thrive.
+𝟱. 𝗙𝗮𝗶𝗿 𝗖𝗼𝗺𝗽𝗲𝗻𝘀𝗮𝘁𝗶𝗼𝗻: Advocate for fair compensation and benefits for your contributions. Ensure that you are fairly rewarded for your skills, experience, and the value you bring to the organization.
+𝟲. 𝗔𝗹𝗶𝗴𝗻𝗺𝗲𝗻𝘁 𝘄𝗶𝘁𝗵 𝗩𝗮𝗹𝘂𝗲𝘀: Choose employers whose values align with yours. A sense of alignment with the organization's mission and culture can enhance job satisfaction and fulfillment.
+𝟳. 𝗙𝗹𝗲𝘅𝗶𝗯𝗶𝗹𝗶𝘁𝘆 𝗮𝗻𝗱 𝗔𝘂𝘁𝗼𝗻𝗼𝗺𝘆: Look for opportunities for flexible work arrangements that accommodate your needs and preferences. Having autonomy in how you work can contribute to a better work-life balance and overall job satisfaction.
+𝟴. 𝗖𝗮𝗿𝗲𝗲𝗿 𝗣𝗿𝗼𝗴𝗿𝗲𝘀𝘀𝗶𝗼𝗻: Seek opportunities for advancement and growth within the organization. Set goals for your career progression and actively pursue opportunities for development and advancement.
+𝟵. 𝗠𝗲𝗮𝗻𝗶𝗻𝗴𝗳𝘂𝗹 𝗥𝗲𝗹𝗮𝘁𝗶𝗼𝗻𝘀𝗵𝗶𝗽𝘀: Build meaningful connections with colleagues and mentors. Cultivate a supportive network of peers and mentors who can offer guidance, support, and camaraderie throughout your career journey.
+𝟭𝟬. 𝗟𝗶𝗳𝗲 𝗢𝘂𝘁𝘀𝗶𝗱𝗲 𝗼𝗳 𝗪𝗼𝗿𝗸: Remember that a job is just one aspect of your identity. Prioritize hobbies, relationships, and personal interests to maintain a balanced and fulfilling life outside of work.
+By managing expectations and prioritizing holistic well-being, we can create fulfilling careers that complement our overall lifestyle. Let's strive for balance and fulfillment in both our professional and personal lives! 💼✨ |541
+
+𝐒𝐨𝐦𝐞𝐭𝐢𝐦𝐞𝐬, 𝐖𝐞’𝐫𝐞 𝐉𝐮𝐬𝐭 𝐍𝐨𝐭 𝐋𝐮𝐜𝐤𝐲!!🍀
+We have all been in this situation - 𝐰𝐞𝐥𝐥 𝐩𝐫𝐞𝐩𝐚𝐫𝐞𝐝 𝐭𝐨 𝐩𝐞𝐫𝐟𝐞𝐜𝐭𝐢𝐨𝐧, 𝐜𝐨𝐧𝐟𝐢𝐝𝐞𝐧𝐭 𝐨𝐟 𝐨𝐮𝐫 𝐚𝐛𝐢𝐥𝐢𝐭𝐢𝐞𝐬 𝐚𝐧𝐝 𝐫𝐞𝐚𝐝𝐲 𝐭𝐨 𝐩𝐚𝐬𝐬 𝐭𝐡𝐚𝐭 𝐢𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰. However, there are times when despite our best efforts things may not go as planned. And you know what? This is fine. 😊 
+Luck plays a big part in the outcome of any interview. At times, everything falls perfectly into place and at other instances it does not even when you did everything right. In reality the process is unpredictable.
+So if you didn’t get the job don’t beat yourself up about it. Instead give yourself credit for showing up, learning something new and making an effort. Every interview is progress no matter what happens on result day.
+Remember that this is not your end point. It forms one part of a wider picture. Keep moving forward, stay strong and believe your time will come. Because sometimes all you need is for the right opportunity to meet the right moment – so believe in yourself and trust the process.
+Maintain a positive outlook, remain focused on your goals whilst never forgetting to rejoice even on minor accomplishments along the way 🌟|1077
+
+✨ Happy Diwali to everyone! ✨
+May this festival of lights bring joy, prosperity, and peace into your lives. I hope you’re surrounded by family and friends. ✨ 
+Let’s cherish every moment!
+P.S. Pic below is from two years ago, celebrating Diwali at Assi Ghat, Varanasi, during my college days.
+Happy Diwali! 🪔💫|902
+
+𝐔𝐧𝐩𝐚𝐢𝐝 𝐈𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩𝐬: 𝐖𝐨𝐫𝐭𝐡 𝐈𝐭 𝐨𝐫 𝐍𝐨𝐭? 𝐇𝐞𝐫𝐞’𝐬 𝐌𝐲 𝐓𝐚𝐤𝐞 𝐟𝐨𝐫 𝐖𝐢𝐧𝐭𝐞𝐫 𝐈𝐧𝐭𝐞𝐫𝐧𝐬!
+Aaj kal har jagah buzz hai ki “unpaid internships are bad, never do that”. And I totally get it—getting paid for your work is important! 𝐓𝐫𝐲 𝐟𝐨𝐫 𝐚 𝐩𝐚𝐢𝐝 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩 𝐟𝐢𝐫𝐬𝐭, always. Lekin agar woh nahi milta, 𝐝𝐨𝐧’𝐭 𝐢𝐠𝐧𝐨𝐫𝐞 𝐚 𝐠𝐨𝐨𝐝 𝐮𝐧𝐩𝐚𝐢𝐝 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩 𝐞𝐢𝐭𝐡𝐞𝐫.
+Mere experience mein, even an unpaid internship can give you that 𝐞𝐱𝐩𝐨𝐬𝐮𝐫𝐞 𝐭𝐨 𝐫𝐞𝐚𝐥-𝐰𝐨𝐫𝐥𝐝 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 jo hum sirf college lecture ya YT mein nahi seekh paate. You get hands-on learning, an idea of industry standards, and trust me, ye cheezein 𝐩𝐥𝐚𝐜𝐞𝐦𝐞𝐧𝐭 𝐢𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰𝐬 𝐦𝐞𝐢𝐧 𝐛𝐨𝐡𝐨𝐭 𝐤𝐚𝐚𝐦 𝐚𝐚𝐭𝐢 𝐡𝐚𝐢𝐧.
+𝐈 𝐡𝐚𝐯𝐞 𝐬𝐞𝐞𝐧 𝐥𝐨𝐭 𝐨𝐟 𝐩𝐞𝐨𝐩𝐥𝐞 𝐝𝐨𝐢𝐧𝐠 𝐮𝐧𝐩𝐚𝐢𝐝 𝐢𝐧𝐭𝐞𝐫𝐧𝐬𝐡𝐢𝐩𝐬 𝐚𝐧𝐝 𝐭𝐡𝐚𝐧 𝐥𝐚𝐧𝐝𝐢𝐧𝐠 𝐨𝐧 𝐚 𝐡𝐢𝐠𝐡 𝐩𝐚𝐲𝐢𝐧𝐠 𝐉𝐨𝐛! So don’t get demotivated if you couldn’t secure a paid one—focus on building your skills and gaining real experience instead.
+Your skills and experience—paid ya unpaid—are what count the most in the long run. So agar aapko lagta hai ki internship mein kuch naya seekhne ko milega, toh go for it. “𝐒𝐤𝐢𝐥𝐥𝐬 𝐬𝐩𝐞𝐚𝐤 𝐥𝐨𝐮𝐝𝐞𝐫 𝐭𝐡𝐚𝐧 𝐚 𝐩𝐚𝐲𝐜𝐡𝐞𝐜𝐤 𝐢𝐧 𝐭𝐡𝐞 𝐛𝐞𝐠𝐢𝐧𝐧𝐢𝐧𝐠.” 💪
+Placements ke time pe yahi exposure aapke answers aur projects ko real-world touch dega, jo bahut zaroori hai. Don’t let unpaid stop you from grabbing a great opportunity to learn!
+So, what’s your take? Let’s discuss in the comments! 👇|405
+
+Is Your IDE Making You Forgetful? 🤔
+Let's be honest—IDEs and auto-suggestions make coding faster and easier. But there's a downside: the more we rely on them, the more we might forget the basics.
+Imagine this: you're in an interview, no IDE to help, and suddenly you can’t remember the syntax for something simple. It’s a tough spot to be in, but it can happen if we don’t practice coding on our own sometimes.
+So here’s a thought: try coding without the shortcuts now and then. It’ll help you remember more and feel confident in interviews.
+Keep those coding skills sharp! 💪✨ |1750
+
+It’s funny how life’s challenges evolve over time. Once it was exams, then it was meeting deadlines, and now, it’s keeping our Vitamin levels in check! 😅
+Looks like adulthood means a constant to-do list: Finish that project, book that appointment, take your vitamins.
+If only "life balance" came in tablet form too, right? 💊|99
+
+🚀 𝗔𝘁𝘁𝗲𝗻𝘁𝗶𝗼𝗻 𝗮𝗹𝗹 𝘀𝗲𝗰𝗼𝗻𝗱, 𝘁𝗵𝗶𝗿𝗱, 𝗼𝗿 𝗳𝗼𝘂𝗿𝘁𝗵-𝘆𝗲𝗮𝗿 𝘀𝘁𝘂𝗱𝗲𝗻𝘁𝘀! 🚀
+Are you prepared for unexpected opportunities that may come your way? Here are three essential things you should have in-hand:
+1️⃣ 𝗕𝘂𝗶𝗹𝗱 𝗬𝗼𝘂𝗿 𝗥𝗲𝘀𝘂𝗺𝗲: If you haven't crafted your resume yet, now is the time. Opportunities often arise when least expected, and having a polished resume ready can make all the difference.
+2️⃣ 𝗚𝗶𝘁𝗛𝘂𝗯 𝗥𝗲𝗽𝗼𝘀𝗶𝘁𝗼𝗿𝘆 𝗳𝗼𝗿 𝗣𝗿𝗼𝗷𝗲𝗰𝘁𝘀: Don't keep your projects confined to your local system. Push them to a GitHub repository! Not only does this ensure their safety, but it also allows you to easily showcase them by including project links in your resume, boosting your visibility to potential employers.
+3️⃣ 𝗧𝗿𝗮𝗻𝘀𝗰𝗿𝗶𝗽𝘁𝘀 𝗖𝗼𝗹𝗹𝗲𝗰𝘁𝗶𝗼𝗻: Have you gathered your signed transcripts from your institute? If not, make sure to do so. Alternatively, if your institute provides unsigned transcripts online, download them all—from your first semester to the present—and store them in a secure folder. Many companies require transcripts (semester grade sheets) when you start applying for roles, so having them readily available is crucial.
+Remember, preparation is key to seizing opportunities and setting yourself up for success. Start now and stay ahead of the game!|682
+
+𝐅𝐚𝐢𝐥𝐢𝐧𝐠 𝐒𝐃𝐄 𝐈𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰 𝐚𝐭 𝐓𝐨𝐩 𝐓𝐞𝐜𝐡 𝐆𝐢𝐚𝐧𝐭𝐬 𝐚𝐠𝐚𝐢𝐧 𝐚𝐧𝐝 𝐚𝐠𝐚𝐢𝐧…? 😥⁣
+𝐂𝐡𝐚𝐧𝐠𝐞 𝐭𝐡𝐢𝐬 𝐡𝐚𝐛𝐢𝐭 𝐧𝐨𝐰…
+See, we all know why we feel like switching to top Tech companies, but when we move ahead, we often face rejections.
+Motivation to gayab hi ho jaati hai Right? 🤔
+I have been there, and I’ve seen people around me facing the same struggles 
+I started preparing because I knew learning never ends, even when you're a working professional. 
+→ I worked on my weak points, strengthened my fundamentals, and refocused on DSA and system design, which were previously causing me to fail.
+→ I have ignored DSA all my life thinking its not that important, but rejections changed my perception.
+Focusing and preparing with the right strategy and seeking help from industry experts helped me land jobs at top PBCs.
+𝐌𝐞𝐫𝐢 𝐚𝐝𝐯𝐢𝐜𝐞 𝐡𝐚𝐢: sahi resources se prepare karo and seeking mentorship is a must.
+Kyunki khud padhne aur ek mentor ki sikh mein bahut farq hota hai.
+With the guidance and strategies from my mentor, I was able to land a job at a top Tech company and you can do it too.
+If you're looking for a career switch, or if you’ve already started preparing for upcoming opportunities, I highly recommend checking out Bosscoder Academy|457
+
+Last year, I gave 4 interviews
+And cracked 3 of them—Flipkart, Oracle, and Confluent ✌️
+I was genuinely surprised and needed some time to decide, but I ultimately chose Oracle over the others. Here's what influenced my decision:
+➤ Technical Alignment: My internship at Google showed me how much I enjoy working with Java, and I wanted to continue that. Oracle’s focus on Java projects seemed like the best place for my growth.
+➤ Insights from seniors: I reached out to seniors from both Oracle and Flipkart to understand their work cultures. Their advice showed me that Oracle offered the technical depth and work-life balance I wanted.
+I’m really glad I took the time to connect with my seniors
+Their insights opened my eyes to aspects I hadn’t thought about. If you’re trying to figure out your career path, I recommend you connect with senior professionals in your target companies. ✔|1233
+
+16L stipend for interns? Sounds tempting, until you realize the 'L' might stand for 'Lost Work-Life Balance.' 🧐💼
+Because who needs weekends or sleep when you’ve got 16L, right? 😂|1200
+
+𝐉𝐨𝐛 𝐦𝐢𝐥𝐧𝐚 𝐚𝐚𝐬𝐚𝐚𝐧 𝐧𝐚𝐡𝐢 𝐡𝐨𝐭𝐚, 𝐛𝐮𝐭 𝐢𝐦𝐩𝐨𝐬𝐬𝐢𝐛𝐥𝐞 𝐛𝐡𝐢 𝐧𝐚𝐡𝐢 𝐡𝐚𝐢! 💼
+I remember those days when after every interview, all I got was rejection. Har baar lagta tha, “𝐀𝐦 𝐈 𝐨𝐧 𝐭𝐡𝐞 𝐫𝐢𝐠𝐡𝐭 𝐩𝐚𝐭𝐡?” ya “𝐘𝐞𝐡 𝐤𝐚𝐛 𝐤𝐡𝐚𝐭𝐚𝐦 𝐡𝐨𝐠𝐚?”
+But ek cheez jo maine kabhi nahi chhodi, woh hai 𝐧𝐞𝐯𝐞𝐫 𝐠𝐢𝐯𝐢𝐧𝐠 𝐮𝐩!💪
+Agar aaj tum: 
+🔸 Rejections ke baad demotivated feel kar rahe ho 
+🔸 Preparation ke beech confidence lose kar rahe ho 
+🔸 Ya tumhare life goals door lag rahe hain
+Toh sirf yeh socho – 𝐊𝐲𝐚 𝐭𝐮𝐦𝐧𝐞 𝐚𝐩𝐧𝐚 100% 𝐝𝐢𝐲𝐚 𝐡𝐚𝐢? Agar haan, toh failure se mat daro. Har rejection tumhari success ki shuruaat hai!
+"Bad times don’t last forever, but unse jo seekhte ho, woh hamesha rahta hai." 𝐒𝐨 𝐬𝐞𝐞𝐤𝐡𝐨, 𝐠𝐫𝐨𝐰 𝐤𝐚𝐫𝐨, 𝐚𝐧𝐝 𝐩𝐡𝐢𝐫 𝐬𝐞 𝐭𝐫𝐲 𝐤𝐚𝐫𝐨. Job milna sirf skill ka game nahi, yeh mental strength ka bhi test hai.
+𝐀𝐚𝐣 𝐣𝐨 𝐭𝐨𝐮𝐠𝐡 𝐥𝐚𝐠 𝐫𝐚𝐡𝐚 𝐡𝐚𝐢, 𝐤𝐚𝐥 𝐰𝐚𝐡𝐢 𝐭𝐮𝐦𝐡𝐞 𝐩𝐫𝐨𝐮𝐝 𝐟𝐞𝐞𝐥 𝐤𝐚𝐫𝐚𝐲𝐞𝐠𝐚. 🚀 𝐀𝐩𝐧𝐢 𝐬𝐭𝐨𝐫𝐲 𝐤𝐡𝐮𝐝 𝐥𝐢𝐤𝐡𝐨, 𝐝𝐮𝐬𝐫𝐨𝐧 𝐤𝐞 𝐞𝐱𝐩𝐞𝐜𝐭𝐚𝐭𝐢𝐨𝐧𝐬 𝐩𝐞 𝐦𝐚𝐭 𝐜𝐡𝐚𝐥𝐨!|840
+
+Biggest fear? Burnout.
+Greatest threat? A toxic work culture that normalizes it.
+Let’s prioritize well-being over deadlines, because sustainable success isn’t built on exhaustion.|36
+
+
+Life update 👇
+Corporate life is like a treadmill—you're always running, but somehow, you're still in the same place by 5 PM.😐|61
+
+2017 𝗡𝗘𝗘𝗧 𝘁𝗼𝗽𝗽𝗲𝗿 Navdeep Singh Dies by 𝗦𝘂𝗶𝗰𝗶𝗱𝗲, No Note Found
+Sometimes I feel that being less intelligent is much better than being highly intelligent and a topper. 
+People not understanding your worth seems better than them expecting you to be a star.
+Often, suicides occur because of societal pressure and expectations. 
+He was not the only one who felt this pressure; each of us has faced similar situations at some point.
+Why is there no place for a person to go back to? Why can't we take a step back or leave if we need to? Why is it important to constantly repeat past successes? Even our own family and relatives start questioning us if we don't continue to excel.
+These tragic events are so depressing and highlight the severe pressure faced by many individuals. The recent suicides, including that of the IIT Guwahati student and NEET 2017 topper Navdeep Singh, underscore the urgent need for a supportive environment where mental health is prioritized.|142
+
+𝐈𝐬 𝐲𝐨𝐮𝐫 𝐫𝐞𝐬𝐮𝐦𝐞 𝐧𝐨𝐭 𝐠𝐞𝐭𝐭𝐢𝐧𝐠 𝐧𝐨𝐭𝐢𝐜𝐞𝐝 𝐛𝐲 𝐭𝐡𝐞 𝐢𝐧𝐭𝐞𝐫𝐯𝐢𝐞𝐰𝐞𝐫?
+Here’s how to enhance it and make it 𝐀𝐓𝐒-𝐟𝐫𝐢𝐞𝐧𝐝𝐥𝐲.
+In today's competitive job market, ensuring your resume is optimized for 𝐀𝐩𝐩𝐥𝐢𝐜𝐚𝐧𝐭 𝐓𝐫𝐚𝐜𝐤𝐢𝐧𝐠 𝐒𝐲𝐬𝐭𝐞𝐦𝐬 (𝐀𝐓𝐒) is crucial. An ATS helps recruiters filter candidates efficiently, but if your resume isn't formatted correctly, it may never get noticed by the hiring manager.
+To increase your chances of getting noticed, follow these 6 essential ATS hacks
+𝐔𝐬𝐞 𝐑𝐞𝐥𝐞𝐯𝐚𝐧𝐭 𝐊𝐞𝐲𝐰𝐨𝐫𝐝𝐬: Tailor your resume with keywords from the job description, incorporating them naturally in your summary, skills, and experience sections. Avoid keyword stuffing!
+𝐂𝐥𝐞𝐚𝐫 𝐒𝐞𝐜𝐭𝐢𝐨𝐧 𝐇𝐞𝐚𝐝𝐢𝐧𝐠𝐬: Label your sections clearly with headings like "Professional Experience," "Education," and "Skills" to ensure the ATS can easily identify and parse your information.
+𝐂𝐡𝐨𝐨𝐬𝐞 𝐚 𝐒𝐢𝐦𝐩𝐥𝐞 𝐅𝐨𝐫𝐦𝐚𝐭: Stick to a clean, chronological format. Avoid using graphics, tables, or multiple columns, as these can confuse the ATS. Use standard fonts like Arial or Calibri.
+𝐅𝐨𝐜𝐮𝐬 𝐨𝐧 𝐑𝐞𝐥𝐞𝐯𝐚𝐧𝐭 𝐂𝐨𝐧𝐭𝐞𝐧𝐭: Highlight your achievements and responsibilities using bullet points. Ensure each job entry includes the company name, location, job title, and dates of employment.
+𝐏𝐫𝐨𝐨𝐟𝐫𝐞𝐚𝐝 𝐓𝐡𝐨𝐫𝐨𝐮𝐠𝐡𝐥𝐲: Spelling and grammar errors can prevent the ATS from accurately reading your resume. Double-check your document or use an online tool for error detection.
+𝐂𝐨𝐧𝐬𝐢𝐬𝐭𝐞𝐧𝐜𝐲 𝐢𝐬 𝐊𝐞𝐲: Use consistent formatting for dates and other elements. For example, stick to MM/YYYY or "Month Year" formats for dates.
+By following these tips, you can increase the likelihood that your resume makes it through the ATS and gets noticed by recruiters. Let's get those resumes to the top of the pile!|90
+
+
+𝗖𝗲𝗹𝗲𝗯𝗿𝗮𝘁𝗶𝗻𝗴 𝟭 𝘆𝗲𝗮𝗿 𝗮𝘁 𝗢𝗿𝗮𝗰𝗹𝗲 🎉
+𝗪𝗵𝗮𝘁 𝗮 𝗷𝗼𝘂𝗿𝗻𝗲𝘆 𝗶𝘁'𝘀 𝗯𝗲𝗲𝗻! 𝗙𝗿𝗼𝗺 𝗶𝗻𝘁𝗲𝗿𝗻𝗶𝗻𝗴 𝗮𝘁 𝗚𝗼𝗼𝗴𝗹𝗲 𝘁𝗼 𝗳𝗮𝗰𝗶𝗻𝗴 𝗿𝗲𝗷𝗲𝗰𝘁𝗶𝗼𝗻𝘀, 𝗮𝗻𝗱 𝗻𝗼𝘄 𝘁𝗵𝗿𝗶𝘃𝗶𝗻𝗴 𝗮𝘀 𝗮𝗻 𝗠𝗧𝗦 𝗮𝘁 𝗢𝗿𝗮𝗰𝗹𝗲.
+Here are some key lessons that helped me crack these PBCs:
+🟢 Contributing to open-source isn't optional anymore. My GitHub opened doors that my resume couldn't.
+🟢 Keep a 'failure journal'. Tracking my interview feedback helped me spot patterns and improve faster.
+🟢 Mock interviews are game-changers. I did 10+ mocks before my Oracle interview.
+These strategies made a huge difference, but the journey was still challenging. Looking back, I realize I could have grown much faster with proper guidance.
+If you're on a similar journey, consider connecting with seniors who can guide you 1:1. Platforms like Preplaced connects you with seasoned tech professionals who offer guidance tailored to your goals.|739
+
+🚨 𝗙𝗹𝗮𝘁 𝗦𝗰𝗮𝗺 𝗔𝗹𝗲𝗿𝘁 𝗳𝗼𝗿 𝗙𝗿𝗲𝘀𝗵𝗲𝗿𝘀 𝗠𝗼𝘃𝗶𝗻𝗴 𝘁𝗼 𝗛𝘆𝗱𝗲𝗿𝗮𝗯𝗮𝗱/𝗕𝗮𝗻𝗴𝗮𝗹𝗼𝗿𝗲/𝗗𝗲𝗹𝗵𝗶 🚨
+Hey everyone,
+I want to bring your attention to a scam targeting newcomers searching for flats or flatmates in cities like Hyderabad, Bangalore, and Delhi. Scammers are infiltrating online groups and posting seemingly amazing deals for flats at unbelievably low prices. Here’s how the scam typically unfolds:
+𝗟𝘂𝗰𝗿𝗮𝘁𝗶𝘃𝗲 𝗣𝗼𝘀𝘁𝘀: Scammers post about a room available in a decent flat at a very low cost. This attracts a lot of interest.
+𝗙𝗮𝗸𝗲 𝗖𝗼𝗻𝘁𝗮𝗰𝘁𝘀: They provide a number for someone who supposedly already stays in the flat. This person will tell you many people are interested and you need to prebook by paying a month’s rent.
+𝗣𝗿𝗲𝘀𝘀𝘂𝗿𝗲 𝗧𝗮𝗰𝘁𝗶𝗰𝘀: Overwhelmed by the fear of missing out, many people end up paying the rent upfront without verifying.
+𝗛𝗼𝘄 𝘁𝗼 𝗣𝗿𝗼𝘁𝗲𝗰𝘁 𝗬𝗼𝘂𝗿𝘀𝗲𝗹𝗳:
+𝗡𝗲𝘃𝗲𝗿 𝗣𝗮𝘆 𝗪𝗶𝘁𝗵𝗼𝘂𝘁 𝗩𝗶𝘀𝗶𝘁𝗶𝗻𝗴: Always visit the flat in person before making any payment.
+𝗩𝗲𝗿𝗶𝗳𝘆 𝗗𝗼𝗰𝘂𝗺𝗲𝗻𝘁𝘀: Ensure you receive and verify all necessary documents.
+𝗚𝗲𝘁 𝗮 𝗖𝗼𝗻𝘁𝗿𝗮𝗰𝘁: Don’t pay anything until you have a legally binding contract.
+Stay safe and don’t let scammers take advantage of your excitement. Share this post to spread awareness!|857
+
+Hey LinkedIn fam,
+𝗟𝗲𝘁'𝘀 𝘁𝗮𝗹𝗸 𝗮𝗯𝗼𝘂𝘁 𝗰𝗼𝗺𝗽𝗮𝗻𝘆 𝗰𝘂𝗹𝘁𝘂𝗿𝗲 𝗮𝗻𝗱 𝘄𝗼𝗿𝗸-𝗹𝗶𝗳𝗲 𝗯𝗮𝗹𝗮𝗻𝗰𝗲 𝗶𝗻 𝗠𝗡𝗖𝘀. 𝗪𝗲 𝗼𝗳𝘁𝗲𝗻 𝗵𝗲𝗮𝗿 𝘁𝗵𝗮𝘁 𝗯𝗶𝗴 𝗰𝗼𝗺𝗽𝗮𝗻𝗶𝗲𝘀 𝗼𝗳𝗳𝗲𝗿 𝗴𝗿𝗲𝗮𝘁 𝗰𝘂𝗹𝘁𝘂𝗿𝗲 𝗮𝗻𝗱 𝗯𝗮𝗹𝗮𝗻𝗰𝗲, 𝗯𝘂𝘁 𝗹𝗲𝘁'𝘀 𝗴𝗲𝘁 𝗿𝗲𝗮𝗹 – 𝗶𝘁'𝘀 𝗻𝗼𝘁 𝗮𝗹𝘄𝗮𝘆𝘀 𝗮𝘀 𝗿𝗼𝘀𝘆 𝗮𝘀 𝗶𝘁 𝘀𝗲𝗲𝗺𝘀.
+From my experience, everything boils down to the team and the people you work with, even in a stable MNC. 𝗜'𝗺 𝗻𝗼𝘁 𝗵𝗲𝗿𝗲 𝘁𝗼 𝗯𝗮𝘀𝗵 𝘀𝘁𝗮𝗿𝘁𝘂𝗽𝘀 (𝘄𝗲 𝗮𝗹𝗹 𝗸𝗻𝗼𝘄 𝘁𝗵𝗲𝗶𝗿 𝗰𝘂𝗹𝘁𝘂𝗿𝗲 𝗰𝗮𝗻 𝗯𝗲 𝗰𝗵𝗮𝗼𝘁𝗶𝗰), but let's address the elephant in the room.
+𝗠𝗮𝗻𝘆 𝗼𝗳 𝘂𝘀 𝗷𝗼𝗶𝗻 𝗠𝗡𝗖𝘀 𝘄𝗶𝘁𝗵 𝘀𝗸𝘆-𝗵𝗶𝗴𝗵 𝗲𝘅𝗽𝗲𝗰𝘁𝗮𝘁𝗶𝗼𝗻𝘀, 𝗼𝗻𝗹𝘆 𝘁𝗼 𝗳𝗶𝗻𝗱 𝘁𝗵𝗮𝘁 𝘁𝗵𝗲 𝗿𝗲𝗮𝗹𝗶𝘁𝘆 𝗳𝗮𝗹𝗹𝘀 𝘀𝗵𝗼𝗿𝘁. 𝗕𝘂𝘁 𝘄𝗵𝘆 𝗱𝗼𝗲𝘀 𝘁𝗵𝗶𝘀 𝗵𝗮𝗽𝗽𝗲𝗻?
+Well, it's simple – company culture isn't something you can package and sell. It's built by the people, for the people. And sometimes, despite the best efforts of the company, certain teams or individuals can make or break the culture.
+So what's the takeaway? Don't just chase the company name or reputation. Dig deeper, ask questions, and seek out teams where you feel aligned with the culture and values.
+𝗥𝗲𝗺𝗲𝗺𝗯𝗲𝗿, 𝘆𝗼𝘂𝗿 𝗵𝗮𝗽𝗽𝗶𝗻𝗲𝘀𝘀 𝗮𝗻𝗱 𝗳𝘂𝗹𝗳𝗶𝗹𝗹𝗺𝗲𝗻𝘁 𝗮𝘁 𝘄𝗼𝗿𝗸 𝗱𝗲𝗽𝗲𝗻𝗱 𝗼𝗻 𝗺𝗼𝗿𝗲 𝘁𝗵𝗮𝗻 𝗷𝘂𝘀𝘁 𝘁𝗵𝗲 𝗰𝗼𝗺𝗽𝗮𝗻𝘆'𝘀 𝗻𝗮𝗺𝗲. 𝗖𝗵𝗼𝗼𝘀𝗲 𝘆𝗼𝘂𝗿 𝘁𝗲𝗮𝗺 𝘄𝗶𝘀𝗲𝗹𝘆, 𝗮𝗻𝗱 𝘆𝗼𝘂'𝗹𝗹 𝗳𝗶𝗻𝗱 𝘁𝗵𝗲 𝗯𝗮𝗹𝗮𝗻𝗰𝗲 𝗮𝗻𝗱 𝗰𝘂𝗹𝘁𝘂𝗿𝗲 𝘆𝗼𝘂'𝗿𝗲 𝗹𝗼𝗼𝗸𝗶𝗻𝗴 𝗳𝗼𝗿. 💼✨ |201
+
+𝗡𝗼𝘁 𝗴𝗲𝘁𝘁𝗶𝗻𝗴 𝗿𝗲𝗳𝗲𝗿𝗿𝗮𝗹𝘀? 𝗛𝗲𝗿𝗲 𝗮𝗿𝗲 𝘀𝗼𝗺𝗲 𝗿𝗲𝗮𝘀𝗼𝗻𝘀 𝘄𝗵𝘆, 𝗮𝗹𝗼𝗻𝗴 𝘄𝗶𝘁𝗵 𝘁𝗶𝗽𝘀 𝘁𝗼 𝗶𝗺𝗽𝗿𝗼𝘃𝗲:
+1. 𝗘𝗻𝗴𝗮𝗴𝗲 𝗠𝗲𝗮𝗻𝗶𝗻𝗴𝗳𝘂𝗹𝗹𝘆:
+ - If someone says you to comment if you are interested for a referral then instead of just commenting your name or hashtag#𝗶𝗻𝘁𝗲𝗿𝗲𝘀𝘁𝗲𝗱. Share details about your skills and attach your resume. This makes it easier for the person to identify you. If you are sending a connection request, mention your interest in the comment section.
+2. 𝗣𝗲𝗿𝘀𝗼𝗻𝗮𝗹𝗶𝘇𝗲𝗱 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗼𝗻 𝗥𝗲𝗾𝘂𝗲𝘀𝘁𝘀:
+ - When sending a connection request for a referral, accompany it with a message detailing your skills and the specific role you're interested in. Demonstrating your dedication helps the person understand your request better.
+3. 𝗘𝗳𝗳𝗲𝗰𝘁𝗶𝘃𝗲 𝗠𝗲𝘀𝘀𝗮𝗴𝗶𝗻𝗴 𝗳𝗼𝗿 𝗘𝘅𝗶𝘀𝘁𝗶𝗻𝗴 𝗖𝗼𝗻𝗻𝗲𝗰𝘁𝗶𝗼𝗻𝘀:
+ - If you're already connected with the person, avoid generic greetings like 𝗛𝗶𝗶/𝗛𝗲𝗹𝗹𝗼/ 𝗡𝗲𝗲𝗱 𝗵𝗲𝗹𝗽. Instead, send a message outlining your background, skills, attach your resume, and specify the role you're targeting. Be clear about your perspective for reaching out.
+4. 𝗥𝗲𝗳𝗲𝗿𝗿𝗮𝗹 𝗙𝗶𝗿𝘀𝘁, 𝗔𝗽𝗽𝗹𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗦𝗲𝗰𝗼𝗻𝗱
+ - Don't make the mistake of applying first and then seeking a referral. Start by requesting a referral and, once granted, proceed to apply through the provided link.
+5. 𝗧𝗶𝗺𝗲 𝘆𝗼𝘂𝗿 𝗺𝗲𝘀𝘀𝗮𝗴𝗲 𝘄𝗲𝗹
+ - Try to write a reminder message during evening or during weekends when people are more likely to check their messages outside of office hours.
+I'm writing this from my personal experience. Remember, effective communication is key in securing referrals. Be proactive, showcase your skills, and demonstrate your commitment to the desired role.|227
+
