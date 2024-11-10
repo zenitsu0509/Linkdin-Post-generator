@@ -3,7 +3,7 @@ import json
 
 
 class FewShotPosts:
-    def __init__(self, file_path="Post Data Processing\cleaned_posts.json"):
+    def __init__(self, file_path="Post Data Processing/cleaned_posts.json"):
         self.df = None
         self.unique_tags = None
         self.load_posts(file_path)
