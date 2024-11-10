@@ -4,4 +4,4 @@ langchain-core
 langchain-community
 langchain_groq
 pandas
-dotenv
+python-dotenv
