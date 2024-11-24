@@ -3,16 +3,12 @@ from few_shot import FewShotPosts
 from post_generator import generate_post
 
 
-# Options for length and language
 length_options = ["Short", "Medium", "Long"]
 language_options = ["English", "Hinglish"]
 
-
-# Main app layout
 def main():
     st.subheader("LinkedIn Post Generator")
 
-    # Create three columns for the dropdowns
     col1, col2, col3 = st.columns(3)
 
     fs = FewShotPosts()
@@ -37,6 +33,5 @@ def main():
         st.write(post)
 
 
-# Run the app
 if __name__ == "__main__":
     main()
