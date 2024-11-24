@@ -19,9 +19,9 @@ class FewShotPosts:
 
     def get_filtered_posts(self, length, language, tag):
         df_filtered = self.df[
-            (self.df['tags'].apply(lambda tags: tag in tags)) &  # Tags contain 'Influencer'
+            (self.df['tags'].apply(lambda tags: tag in tags)) & 
             (self.df['language'] == language) &  # Language is 'English'
-            (self.df['length'] == length)  # Line count is less than 5
+            (self.df['length'] == length) 
         ]
         return df_filtered.to_dict(orient='records')
 
