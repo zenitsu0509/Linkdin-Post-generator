@@ -4,7 +4,6 @@ LinkedIn Post Generator
 📄 Project Description
 ----------------------
 
-The LinkedIn Post Generator is a Streamlit-based application designed to create engaging LinkedIn posts. It uses a language model to generate content based on user-selected topics, post length, and language options. The app allows users to quickly generate tailored LinkedIn posts, making it easier for professionals to craft impactful and relevant content for their audience.
 
 🚀 Features
 -----------
